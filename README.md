@@ -1,2 +1,1 @@
-# agent-blueprints
-A collection of modular, model-agnostic instructions and "fail-safe" rules to optimize AI coding agents and ensure clean, self-correcting development workflows.
+A collection of CLAUDE.md rules and agent instructions I’ve built to streamline my development workflow.
